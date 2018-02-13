@@ -1,0 +1,1 @@
+ python SETuP.py train --model="training-test" --path-source-documents="Training Example Data/Source Documents/" --path-system-summaries="Training Example Data/System Summaries/" --path-reference-summaries="Training Example Data/Reference Summaries/" --path-system-summary-scores="Training Example Data/System Summary Scores/"

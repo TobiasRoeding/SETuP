@@ -1,0 +1,1 @@
+ python SETuP.py classify  --model="randomforest-tac-2008-2009.pkl" --path-source-documents="Classification Example Data/Source Documents/" --path-system-summaries="Classification Example Data/System Summaries/" --path-reference-summaries="Classification Example Data/Reference Summaries/"

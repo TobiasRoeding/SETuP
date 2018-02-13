@@ -1,0 +1,7 @@
+gensim==3.0.1
+click==6.7
+scipy==0.19.1
+numpy==1.12.1
+nltk==3.2.3
+six==1.11.0
+scikit_learn==0.19.1
